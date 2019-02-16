@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib/javax.ws.rs.javax.ws.rs-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/DcldCommUtils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/fastjson-1.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/ojdbc14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/jackson-dataformat-xml-2.9.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/jackson-jaxrs-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/bpm-infra.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/bpm-services.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/chemistry-opencmis-client-api-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/fabric-runtime.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../lib/bpm122c/local" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.analytics.metrics.model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.bpm-services.client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.bpm-services.implementation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.bpm-services.interface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.casemgmt.interface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.casemgmt.model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.common.model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.diagram.draw.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.metadata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.parser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.project.catalog.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.project.compile.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.project.draw.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.project.io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.project.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.project.model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.project.ui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.scripting.catalog.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.scripting.lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.ui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.vfilesystem.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/rulesdk2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/slf4j-api-1.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/xmlparserv2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../lib/bpm122c/local" />
+      <root url="jar://$PROJECT_DIR$/../../lib/bpm122c/oracle.bpm.bpm-services.interface.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../lib/bpm122c/local" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../lib/bpm122c/local" recursive="false" type="SOURCES" />
+  </library>
+</component>
